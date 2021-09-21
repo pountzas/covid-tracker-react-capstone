@@ -16,7 +16,6 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.6;
   background-color: #fff;
@@ -338,7 +337,7 @@ textarea {
   width: 100%;
   padding: 0.4rem;
   font-size: 1.2rem;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(52, 15, 136);
 }
 
 input[type='submit'],
