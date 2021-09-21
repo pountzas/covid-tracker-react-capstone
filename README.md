@@ -2,7 +2,9 @@
 
 # Covid Tracker
 
-> A mobile first app for tracking covid  [Microverse](https://microverse.io) platform.
+> A mobile first app for tracking covid cases.
+
+<p>In this project you can see informations about how the Covid crisis has been in the world since it's start, you can also filter to see this and more information about one single country.</p>
 
 ## Built With
 
