@@ -22,6 +22,12 @@ body {
   color: #fff;
 }
 
+.logo {
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+
 a {
   color: var(--primary-color);
   text-decoration: none;
