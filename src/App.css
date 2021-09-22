@@ -19,7 +19,7 @@ body {
   font-size: 1rem;
   line-height: 1.6;
   background-color: #fff;
-  color: #333;
+  color: #fff;
 }
 
 a {
@@ -420,4 +420,24 @@ table th {
     text-align: center;
     justify-content: center;
   }
+}
+
+/* custom styles */
+
+.secondary-font {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+.secondary-font-heavy {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+.main-color {
+  background-color: #4369B2;
+}
+
+.secondary-color {
+  background-color: #3B5A9A;
 }

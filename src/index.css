@@ -4,21 +4,3 @@ body {
   'Gill Sans',
   sans-serif;
 }
-
-.secondary-font {
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
-}
-
-.secondary-font-heavy {
-  font-family: 'Lato', sans-serif;
-  font-weight: 700;
-}
-
-.main-color {
-  color: #4369B2;
-}
-
-.secondary-color {
-  color: #3B5A9A;
-}
