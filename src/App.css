@@ -4,7 +4,7 @@
 }
 
 .nav {
-  background-color: #3B5A9A;
+  background-color: #3b5a9a;
 }
 
 .select-box {
@@ -13,7 +13,7 @@
 }
 
 .hero {
-  background: #4369B2;
+  background: #4369b2;
   margin-bottom: 0;
   height: 7rem;
   width: auto;
@@ -34,7 +34,7 @@
 }
 
 .my-background {
-  background: #4369B2;
+  background: #4369b2;
 }
 
 .search-page {
@@ -48,7 +48,7 @@
 }
 
 .covid-comp {
-  background-color: #3B5A9A;
+  background-color: #3b5a9a;
   height: 170px;
   width: 50%;
   box-shadow: 1px 2px 1px 1px #88acee;
@@ -56,7 +56,7 @@
 
 .covid-comp:nth-child(4n + 1),
 .covid-comp:nth-child(4n + 4) {
-  background-color: #3B5A9A;
+  background-color: #3b5a9a;
   background-image: url('./components/asset/covid19.png');
   background-size: auto 100px;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@
 
 .covid-comp:nth-child(4n + 2),
 .covid-comp:nth-child(4n + 3) {
-  background: #4369B2;
+  background: #4369b2;
   background-image: url('./components/asset/covid-removebg-preview.png');
   background-size: auto 75px;
   background-repeat: no-repeat;
@@ -100,7 +100,7 @@
 }
 
 .details-hero {
-  background: #4369B2;
+  background: #4369b2;
   display: flex;
   height: 120px;
 }
@@ -114,7 +114,7 @@
 }
 
 .details-stat {
-  background: #4369B2;
+  background: #4369b2;
   height: 48px;
 }
 
@@ -132,11 +132,11 @@
 }
 
 .country-item:nth-child(odd) {
-  background-color: #3B5A9A
+  background-color: #3b5a9a;
 }
 
 .country-item:nth-child(even) {
-  background: #4369B2;
+  background: #4369b2;
 }
 
 .country-item p {
