@@ -19,7 +19,7 @@
 
 ## Live Preview
 
-![link]https://enigmatic-island-12726.herokuapp.com/
+![link]https://suspicious-kalam-41a00e.netlify.app/
 
 ## Getting Started
 
