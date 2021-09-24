@@ -1,13 +1,23 @@
 import './App.css';
-import React from 'react';
-import Home from './components/Home';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import NavBar from './components/NavBar';
+import CovidHome from './components/covidHome';
+import CovidDetails from './components/CovidDetails';
 
 function App() {
   return (
     <div className="App">
-      <header>
-        <h1><Home /></h1>
-      </header>
+      <Router>
+        <NavBar />
+        <Switch>
+          <Route exact path="/">
+            <CovidHome />
+          </Route>
+          <Route path="/details">
+            <CovidDetails />
+          </Route>
+        </Switch>
+      </Router>
     </div>
   );
 }
